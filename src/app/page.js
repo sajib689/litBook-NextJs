@@ -7,6 +7,8 @@ export default function Home() {
       src={bgImg}
       alt="bgImage"
       fill
+      sizes='100vh'
+      style={{objectFit: 'cover'}}
       />
 
     </div>
